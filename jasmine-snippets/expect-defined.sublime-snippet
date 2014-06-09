@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:something}).toBeDefined();
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>expectdefined</tabTrigger>
+  <description>expect defined - jasmine</description>
+</snippet>

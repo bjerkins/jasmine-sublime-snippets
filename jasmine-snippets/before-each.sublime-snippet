@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+beforeEach(function () {
+  ${1:}
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>beforeeach</tabTrigger>
+  <description>beforeEach - jasmine</description>
+</snippet>

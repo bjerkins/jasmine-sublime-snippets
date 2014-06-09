@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it('${1:should do something}', function () {
+  ${2:}
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>it</tabTrigger>
+  <description>it - jasmine</description>
+</snippet>

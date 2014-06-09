@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:something}).toBe(${2:true});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>expect</tabTrigger>
+  <description>expect - jasmine</description>
+</snippet>

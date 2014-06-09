@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+describe('${1:some suite}', function () {
+  ${2:}
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>describe</tabTrigger>
+  <description>describe - jasmine</description>
+</snippet>
