@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+spyOn(${1:obj}, '${2:method}');
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>spy</tabTrigger>
+  <description>spyOn - jasmine</description>
+</snippet>
